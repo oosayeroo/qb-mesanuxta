@@ -1,6 +1,8 @@
 # qb-mesanuxta
 ## a bahama mamas job for modi maps mesanuxta MLO
 
+## Credits
+Modi maps for their amazing Mesanuxta nightclub MLO. 
 ## Consumables Done Within this script itself.
 
 ## add to shared items.lua
