@@ -1,6 +1,8 @@
 # qb-mesanuxta
 ## a bahama mamas job for modi maps mesanuxta MLO
 
+## Consumables Done Within this script itself.
+
 ## add to shared items.lua
 ```
 --qb-mesanuxta
